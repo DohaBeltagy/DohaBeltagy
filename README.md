@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://static.thenounproject.com/png/765894-200.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://static-00.iconduck.com/assets.00/mode-light-icon-512x512-yuubs6qt.png">
+</picture>
+
+
 <!--
 **DohaBeltagy/DohaBeltagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
